@@ -1,0 +1,19 @@
+{
+  "name": "balance_tracker",
+  "version": "1.0.0",
+  "description": "A balance tracker",
+  "main": "main.js",
+  "author": "Elvin Cheng",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.3"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
+}
